@@ -5,12 +5,14 @@ This folder contains OctoAcme's project management process documents. These docs
 Summary
 - Lifecycle: Initiation → Planning → Execution → Release → Retrospective.
 - Principles: customer-first, iterative delivery, clear ownership, data-informed decisions, psychological safety.
-- Core roles: Project Manager (PM), Product Manager (PdM), Developers, QA, Stakeholders.
+- Core roles: Project Manager (PM), Product Manager (PdM), Developers, Business Analyst, QA Lead, DevOps Engineer, UX Designer, Stakeholders.
 - Key artifacts: Project One-pager (charter), prioritized backlog, Definition of Done, Risk Register, Release plan, Retrospectives and action items.
 - Typical cadence: daily standups, weekly delivery sync, sprint demos, monthly stakeholder updates.
 - Quality & risk controls: CI tests and security scans, smoke tests before release, risk register + escalation paths.
 
 Navigation
+
+**Core Process Documents:**
 - octoacme-project-management-overview.md — high-level overview and principles
 - octoacme-project-initiation.md — one-pager & initiation checklist
 - octoacme-project-planning.md — backlog, estimates, planning checklist
@@ -19,6 +21,10 @@ Navigation
 - octoacme-release-and-deployment.md — release types, checklists, rollback playbook
 - octoacme-retrospective-and-continuous-improvement.md — running retrospectives and tracking improvements
 - octoacme-roles-and-personas.md — role definitions and responsibilities
+
+**Supporting Templates & Checklists:**
+- roles-responsibility-checklist.md — RACI matrix template for clarifying task ownership
+- team-onboarding-checklist.md — comprehensive checklist for onboarding new team members
 
 How to use
 - Keep the one-pager (Project Charter) and release notes in the project repo.
